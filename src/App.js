@@ -6,7 +6,7 @@ function Header() {
   return (
       <header>
           <nav>
-              <img src="reactlogo.png" width="40px" />
+              <img src="./reactlogo.png" width="40px" />
           </nav>
       </header>
   )
